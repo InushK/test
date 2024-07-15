@@ -1,0 +1,16 @@
+Name: Uvindu
+Address: 123,fff
+Job: assosiat
+Age: 22
+Email: uvinduinushavp@gmail.com
+Gender: Male
+Date of Birth: 1996-02-25
+
+Name: Uvindu
+Address: 123,fff
+Job: assosiat
+Age: 22
+Email: uvinduinushavp@gmail.com
+Gender: Male
+Date of Birth: 2024-07-15
+
